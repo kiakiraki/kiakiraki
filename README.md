@@ -76,13 +76,6 @@
 - [LLMが呼び出し元なら、ジオコーディングは要らない —— 個人位置情報APIの設計判断](https://zenn.dev/kiakiraki/articles/12020a3a1020bc)
 - [AIに外部記憶を持たせたら何が変わったか ── RAGとは違う、個人のための read/write記憶基盤](https://zenn.dev/kiakiraki/articles/f09778997fd609)
 
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kiakiraki&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiakiraki&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
 ## Links
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kiakiraki.dev-blue?style=flat&logo=cloudflare&logoColor=white)](https://kiakiraki.dev/)
