@@ -67,6 +67,10 @@
 
 ## OSS Contributions
 
+[**ax**](https://github.com/yusukebe/ax) — curl風CLIツールの堅牢化に貢献。charset自動判別によるデコード、`-d @file` などのcurl互換オプション対応、エラーハンドリング改善など、マージ済みPR 6本の実績。
+
+[**mo**](https://github.com/k1LoW/mo) — `State.Groups()` のdata race修正（deep copyによる並行安全性の改善）。
+
 [**Serena MCP Server**](https://github.com/oraios/serena) — Ruby言語サポートの改善に貢献。Bundler対応、Ruby LSP統合、rbenv連携、デュアル言語サーバーサポートなど、マージ済みPR 6本の実績。
 
 ## Writing
